@@ -1,12 +1,12 @@
 .header{
     text-align: center;
-    color: lightslategrey;
+     color: red;
 }
-.G7{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.G10{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .name{
-    color: rgb(30, 105, 180);
+   color: rgb(255, 0, 0);
 }
 .info{
    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -21,5 +21,5 @@
     border-radius: 5px;
     color: brown;
     font-size: medium;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
